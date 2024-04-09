@@ -1,7 +1,6 @@
-### Hi there 👋
-
 <!--
 **Jandalslap/Jandalslap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 👋 Hi there! I'm Stewart Austin, a passionate student pursuing a degree in IT with a major in Software Development at Wintec in Hamilton, NZ. My journey in the world of tech has led me to explore various programming languages including Java, JavaScript, C#, HTML, and PHP.
 
@@ -10,4 +9,4 @@
 🔭 I’m currently working on a website application package to convert a static website into a dynamic solution.
 
 🌐 Let's connect, collaborate, and code together!
--->
+

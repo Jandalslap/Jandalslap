@@ -6,7 +6,7 @@
 
 💻 I have a keen interest in programming, networking, and the exciting possibilities of self-hosting applications. Constantly learning and growing, I'm enthusiastic about leveraging technology to create innovative solutions and enhance user experiences.
 
-🔭 I’m currently working on a website application package to convert a static website into a dynamic solution.
+🔭 I’m currently working on a Windows Application for Livestock Management and Finances.
 
 🌐 Let's connect, collaborate, and code together!
 
